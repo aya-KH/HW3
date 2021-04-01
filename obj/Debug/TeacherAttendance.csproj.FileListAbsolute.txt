@@ -1,0 +1,19 @@
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+D:\Collage\8th\C Sharp\TeacherAttendance1\bin\Debug\TeacherAttendance.exe.config
+D:\Collage\8th\C Sharp\TeacherAttendance1\bin\Debug\TeacherAttendance.exe
+D:\Collage\8th\C Sharp\TeacherAttendance1\bin\Debug\TeacherAttendance.pdb
+D:\Collage\8th\C Sharp\TeacherAttendance1\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+D:\Collage\8th\C Sharp\TeacherAttendance1\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+D:\Collage\8th\C Sharp\TeacherAttendance1\obj\Debug\TeacherAttendance.Properties.Resources.resources
+D:\Collage\8th\C Sharp\TeacherAttendance1\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+D:\Collage\8th\C Sharp\TeacherAttendance1\obj\Debug\TeacherAttendance.exe
+D:\Collage\8th\C Sharp\TeacherAttendance1\obj\Debug\TeacherAttendance.pdb
